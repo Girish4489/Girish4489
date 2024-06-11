@@ -1,4 +1,8 @@
-## Hi there 👋 I'm Girish Kumar
+## Hi there 👋 I'm [Girish Kumar](<(https://github.com/Girish4489)>)
+
+<a href="https://github.com/Girish4489" style="width: 100%; display:flex; align-items:center; justify-content: center;">
+  <img src="https://github.com/Girish4489.png" width="64" height="64" alt="Profile Image" style="border-radius: 50%;">
+</a>
 
 ## 🚀 About Me
 
