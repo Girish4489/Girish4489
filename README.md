@@ -1,7 +1,7 @@
-## Hi there 👋 I'm [Girish Kumar](<(https://github.com/Girish4489)>)
+## Hi there 👋 I'm [Girish Kumar](https://github.com/Girish4489)
 
 <a href="https://github.com/Girish4489" style="width: 100%; display:flex; align-items:center; justify-content: center;">
-  <img src="https://github.com/Girish4489.png" width="64" height="64" alt="Profile Image" style="border-radius: 50%;">
+  <img src="https://github.com/Girish4489.png" width="64" height="64" alt="Profile Image" style="border-radius: 50%;">
 </a>
 
 ## 🚀 About Me
@@ -16,6 +16,7 @@ I'm a software developer specializing in building packages for various software 
 
 ## 📫 How to reach me
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-girish4489.co.in-00CED1?style=flat-circle&logo=internetexplorer)](https://girish4489.co.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Girish4489-purple?style=flat-circle&logo=github)](https://github.com/Girish4489)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Girish%20Kumar-blue?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/girish-kumar-358098244)
 [![Gmail](https://img.shields.io/badge/Gmail-Girish%20Kumar-red?style=flat-circle&logo=gmail)](mailto:girishkumar4489@gmail.com)
